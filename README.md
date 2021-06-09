@@ -1,10 +1,11 @@
 # Go Programming Language Practice
 
 <div align="center">
-<img src="docs/golang.png" width="400" alt="MACE" />
+<img src="docs/Golang.png" width="400" alt="golang" />
 </div>
 
 [![Read the Docs](https://readthedocs.org/projects/yt2mp3/badge/?version=latest)](https://yt2mp3.readthedocs.io/en/latest/?badge=latest)
+
 This repository contains a code practice of Go Programming Language. 
 
 ## Version
