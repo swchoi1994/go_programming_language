@@ -26,16 +26,11 @@ Please make sure to update tests as appropriate.
 
 Contact the repository owner.
 
-## Contributors
-[![GitHub contributors](https://img.shields.io/github/contributors/swchoi1994/swchoi1994.svg?style=flat)]()  
 
 ## Commits
 [![GitHub last commit](https://img.shields.io/github/last-commit/google/skia.svg?style=flat)]()
 
-## Social Buttons
-[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars&style=plastic)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch&style=plastic)]()
-[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork&style=plastic)]()
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Change Logs
